@@ -11,7 +11,8 @@ You will need to be running one of the following operating systems:
 * Windows Server 2019 
 * Windows Hyper-V Server 2019 
 
-For a breakdown of what Operating Systems support which VM configuration versions please visit: (https://docs.microsoft.com/en-us/windows-server/virtualization/hyper-v/deploy/upgrade-virtual-machine-version-in-hyper-v-on-windows-or-windows-server) 
+For a breakdown of what Operating Systems support which VM configuration versions please visit: (https://docs.microsoft.com/en-us/windows-server/virtualization/hyper-v/deploy/upgrade-virtual-machine-version-in-hyper-v-on-windows-or-windows-server)
+
 This build also requires vagrant-reload. If you do not have it installed, you will be prompted to install it.  
 
 ## Known Issues Important! 
